@@ -18,3 +18,5 @@ My name is **DJ** and here are some informations about me :D
 <summary>Wakatime stats</summary>
 <img width="500px" height="500px" src="https://wakatime.com/share/@weedeej/79d70f98-f41a-48ff-8927-ab639011b17e.svg"/>
 </details>
+
+<a href="https://www.buymeacoffee.com/weedeeej" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
